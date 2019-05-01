@@ -8,7 +8,7 @@
   <Layer name="world" srs="+init=epsg:4326">
     <StyleName>My Style</StyleName>
     <Datasource>
-      <Parameter name="file">path/to/shapefile.shp</Parameter>
+      <Parameter name="file">courtenay_shape/shape/roads.shp</Parameter>
       <Parameter name="type">shape</Parameter>
     </Datasource>
   </Layer>
