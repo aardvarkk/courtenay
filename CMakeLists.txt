@@ -7,4 +7,4 @@ include_directories(
   /usr/local/include/mapnik
   /usr/local/opt/icu4c/include
 )
-target_link_libraries(courtenay /usr/local/opt/mapnik/lib/libmapnik.dylib)
+target_link_libraries(courtenay /usr/local/lib/libmapnik.dylib)
